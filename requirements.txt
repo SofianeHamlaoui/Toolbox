@@ -25,7 +25,7 @@ six==1.11.0
 spark-parser==1.8.9
 tqdm==4.35.0
 uncompyle6==3.4.0
-urllib3==1.25.3
+urllib3==1.26.5
 wrapt==1.11.2
 xdis==4.0.3
 
